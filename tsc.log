@@ -1,0 +1,2 @@
+﻿src/app/(root)/profile/[id]/page.tsx(19,41): error TS2307: Cannot find module '@/components/ThemeProvider' or its corresponding type declarations.
+src/app/chat/dm/[userId]/page.tsx(22,33): error TS2307: Cannot find module '@/components/ThemeProvider' or its corresponding type declarations.
